@@ -14,10 +14,10 @@ url: "http://haoharryfeng.github.io/testpage3"
 baseurl: "/"
 
 # Title of website
-title: rafalab
+title: Feng Lab 
 
 #Default keywords (used if no keywords are specified on a page basis)
-keywords: Irizarry, Rafael, rafalab, data science
+keywords: Bioinformatics, Harry Feng, Hao Feng, biostatistics
 
 # Short description of your site
 desc: Sample Description
@@ -34,18 +34,18 @@ nav-links:
     About: "pages/about.html"
     People: "pages/people.html"
     Research: "pages/research.html"
-    Books: "pages/books.html"
+#    Books: "pages/books.html"
     Software: "pages/software.html"
     Teaching: "pages/teaching.html"
 # --- Footer options --- #
 
 # If the values are empty, they are ignored 
 profile:
-  name: Rafael Irizarry
-  email: 
+  name: Hao Harry Feng
+  email: hxf155@case.edu
   facebook: 
-  github: rafalab
-  twitter: rafalab
+  github: HaoHarryFeng
+  twitter: HHarryFeng
   linkedin: 
   stackoverflow: 
 
@@ -58,7 +58,7 @@ pretty-url: "bchetty.com"
 disqus: 
 
 # Google Analytics Settings
-google_analytics: UA-151564720-1
+#google_analytics: UA-151564720-1
 
 # Set these options as you need (For more information, check Jekyll's site)
 timezone: "America/New_York"
